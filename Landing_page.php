@@ -1,19 +1,18 @@
 <?php
-// personal_landing_page.php
-// Edit the $profile array below with your real details.
 $profile = [
     'name' => 'Shane P. Herbieto',
     'age' => '20',
     'birthdate' => 'September 4, 2004',
+    'birthplace' => 'Cebu, City',
     'favorite_color' => '#blue', 
-    'likes' => ['Example: Coffee', 'Example: Coding', 'Example: Music'],
-    'dislikes' => ['Example: Traffic', 'Example: Spam emails'],
-    'motto' => 'Your personal motto goes here — a short phrase that inspires you.',
+    'likes' => ['Sleep', 'Binge watching movies and kdramas', 'Eat, specially savory foods', 'Read', 'Collect things that are color blue', 'I love to drink coffee'],
+    'dislikes' => ['Too much noise', 'Frogs and Spiders', 'Being pressured'],
+    'motto' => 'Noting is impossible for those who believed that they can.',
     'address' => '123 Example Street, City, Country',
-    'father' => 'Father\'s Name',
-    'mother' => 'Mother\'s Name',
-    'sisters' => ['Sister One', 'Sister Two'],
-    'background_image' => '', // optional: path or URL to a background image
+    'father' => 'Alvin Y. Herbieto',
+    'mother' => 'Christine P. Herbieto',
+    'sisters' => ['Sharmaine P. Herbieto', 'Shaira P. Herbieto'],
+    'background_image' => '', 
 ];
 ?>
 
